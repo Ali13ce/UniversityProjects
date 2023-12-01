@@ -1,1 +1,1 @@
-# University_Project
+# UniversityProjects
