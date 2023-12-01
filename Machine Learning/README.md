@@ -1,5 +1,11 @@
 # Machine Learning Project
 
+## Team Members
+- Alessandro
+- Alice
+- Davide
+- Letterino
+
 ## Overview
 This project entails the construction of three classifiers using Knime to address distinct classification tasks: binary, 3-class, and 10-class classification.
 
